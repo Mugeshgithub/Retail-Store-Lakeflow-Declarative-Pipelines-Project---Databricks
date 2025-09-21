@@ -175,4 +175,4 @@ Views are designed for use in Databricks SQL dashboards with dynamic filters (e.
 
 ## Credits
 
-Developed by the Retail Analytics Data Engineering Team.
+Developed by Mugeshgithub.
