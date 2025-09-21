@@ -1,0 +1,2 @@
+# Retail-Store-Lakeflow-Declarative-Pipelines-Project---Databricks
+This project demonstrates an end-to-end data pipeline for retail analytics using Databricks Lakeflow Declarative Pipelines (formerly Delta Live Tables). The pipeline ingests raw sales and dimension data from AWS cloud storage, applies data cleaning and quality constraints, and produces business-ready insights for dashboards and reporting.
